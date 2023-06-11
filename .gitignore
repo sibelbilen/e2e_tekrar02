@@ -1,0 +1,3 @@
+# Project exclude paths
+/src/test/resources/endtoend_features/
+/target/
